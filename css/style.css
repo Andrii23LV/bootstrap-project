@@ -1,0 +1,7 @@
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.731)), url('../img/header-bg.jpg');
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+}
